@@ -1,4 +1,4 @@
-package iaws.NBMR.coUps;
+package iaws.NBMR.coUps.main;
 
 /**
  * Hello world!
