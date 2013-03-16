@@ -1,9 +1,20 @@
 package iaws.NBMR.coUps.domaine;
-
+/**
+ * Class qui représente les coordonées des utilisateur sur la carte openStreetMap
+ * @author NBMR
+ */
 public class Coordonnees {
 	int lonX,lonY,lonZ;
 	int latX,latY,latZ;
-	
+	/**
+	 * Constructeur de la classe coordonnees
+	 * @param lonA
+	 * @param lonB
+	 * @param lonC
+	 * @param latA
+	 * @param latB
+	 * @param latC
+	 */
 	public Coordonnees(int lonA, int lonB, int lonC, int latA, int latB, int latC){
 		lonX=lonA;
 		lonY=lonB;
