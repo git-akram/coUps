@@ -1,13 +1,17 @@
 package iaws.NBMR.coUps.controleur;
 
-public class UtilisateurControleur {
+import java.util.ArrayList;
 
-	public boolean ajouterAction(){
-		return false;
-	}
+import iaws.NBMR.coUps.domaine.Utilisateur;
+
+public class UtilisateurControleur {
 	
-	public boolean rechercherVoisinAction(){
-		return false;
+	public void inscrir(Utilisateur ut){
+		
 	}
-	
+	public ArrayList<Utilisateur> localiser(int idUtilisateur){
+		ArrayList<Utilisateur> voisins=new ArrayList<Utilisateur>();
+		
+		return voisins;
+	}
 }

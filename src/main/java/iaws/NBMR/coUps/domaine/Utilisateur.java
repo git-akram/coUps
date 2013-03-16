@@ -39,5 +39,4 @@ public class Utilisateur {
 	public void setCoordonnees(Coordonnees coordonnees) {
 		this.coordonnees = coordonnees;
 	}
-	
 }
