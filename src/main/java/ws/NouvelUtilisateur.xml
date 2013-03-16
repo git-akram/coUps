@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reponse>
+	<valeur>KO</valeur>
+	<erreur>
+		<code>100</code>
+		<message>Adresse email déjà utilisée</message>
+	</erreur>
+</reponse>

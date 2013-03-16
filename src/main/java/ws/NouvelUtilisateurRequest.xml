@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<utilisateur>
+	<nom>Dupont</nom>
+	<prenom>Benoit</prenom>
+	<email>mymail@univ-tlse3.fr</email>
+	<adresse>10 Boulevard de Strasbourg, Toulouse</adresse>
+</utilisateur>
